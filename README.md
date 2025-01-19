@@ -15,7 +15,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HongChan1412&theme=github-dark&bg_color=20232a&hide_border=true&line=28a745&color=28a745&point=ffffff" width=94%/>
 </a>
 
-![snake gif](https://github.com/HongChan1412/HongChan1412/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/HongChan1412/HongChan1412/blob/output/github-snake-dark.svg" width="100%">
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongChan14122%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
