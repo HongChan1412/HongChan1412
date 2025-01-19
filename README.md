@@ -1,6 +1,7 @@
 <div align=center>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,10:4c4c4c,30:666666,75:28a745,100:34d058&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,10:4c4c4c,30:666666,75:28a745,100:34d058&height=180&section=header&text=HongChan's%20GitHubProfile&fontSize=60" width="100%"/>
+
 
 ## Hi there 👋
 
